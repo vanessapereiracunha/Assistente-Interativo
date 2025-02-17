@@ -42,7 +42,7 @@ O fluxo do projeto pode ser visualizado no fluxograma abaixo:
 
 Para uma demonstração visual do funcionamento do **Assistente Interativo**, você pode assistir ao vídeo no YouTube:
 
-[Assistente Interativo - Demonstração](https://www.youtube.com/watch?v=EXEMPLO) *(Substitua pelo link correto)*
+[Assistente Interativo - Demonstração](https://youtu.be/bbwspjmm2bQ?si=sJvpYlOrUuYIUcvX)
 
 ## Código Explicado
 
