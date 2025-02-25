@@ -9,7 +9,7 @@ O **Assistente Interativo** é um projeto baseado na placa BitDogLab que combina
 
 - **Tocar música**: Quando o usuário seleciona a primeira opção do menu, um som é reproduzido usando o buzzer.
 - **Acender LED**: A segunda opção ativa um LED para indicar a seleção.
-- **Efeito Semáforo**: A terceira opção ativa um efeito visual utilizando um LED RGB, simulando um semáforo, alternando entre as cores vermelha e verde.
+- **Efeito Semáforo**: A terceira opção ativa um efeito visual utilizando um LED RGB, simulando um semáforo, alternando entre as cores vermelha, verde e azul.
 
 ## Componentes Utilizados
 
